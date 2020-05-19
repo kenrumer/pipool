@@ -1,4 +1,4 @@
-# pool-controller
+# PiPool
 Control pool equipment with raspberry pi and arduino
 
 <h1 align="center">
@@ -9,7 +9,7 @@ Control pool equipment with raspberry pi and arduino
 <h4 align="center">A Raspberry Pi Pool Controller.</h4>
 
 PiPool is an IoT automation tool for your :swimmer: pool equiptment.
-PiPool offers a more extensible solution than traditional pool automation systems; it is open-source and free for all.
+PiPool offers a more extensible solution than traditional pool automation systems.
 Simple software installation, just use your engineering skills to create the physical connections.
 Using ssh or RESTapi the system will work with Alexa or Google home.
 
