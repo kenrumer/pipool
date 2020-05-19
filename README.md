@@ -3,7 +3,7 @@ Control pool equipment with raspberry pi and arduino
 
 <h1 align="center">
   <br>
-  <img src="https://github.com/kenrumer/pipool/blob/master/images/swimmer-solid.xcf" alt="pipool" width="160">
+  <img src="https://github.com/kenrumer/pipool/blob/master/images/swimmer-solid.png" alt="pipool" width="160">
 </h1>
 
 <h4 align="center">A Raspberry Pi Pool Controller.</h4>
