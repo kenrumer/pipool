@@ -11,6 +11,10 @@ sudo apt-get upgrade
 sudo apt-get install php libapache2-mod-php php-mcrypt python python3 speedtest-cli rsync sed nodejs git sqlite curl wget apache2 supervisor
 sudo composer require dragonmantank/cron-expression
 
+mkdir ./arduino
+curl -fsSL https://raw.githubusercontent.com/arduino/arduino-cli/master/install.sh | BINDIR=./arduino sh
+sudo cp ./arduino/arduino-cli /usr/bin/
+
 chmod +x command_server/*
 sudo cp command_server/* /usr/bin/
 

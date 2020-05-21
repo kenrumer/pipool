@@ -31,7 +31,7 @@ Install Arduino IDE, upload the arduino image using the upload via serial button
 Use: 'git clone https://github.com/kenrumer/pipool.git' to download the project.<br/>
 Run install.sh to set everything in motion. <br/>
 There are various os packages that get installed.  Use your judgement for what you want.<br/>
-Required binaries are supervisor, apache2, php, composer and python
+Required binaries are supervisor, apache2, php, composer and python<br/>
 If you pass --set-profile the install will overwrite your .profile file to include health checks.<br/>
 If your Arduino is not connected to the serial port you will get an error the next time you login.<br/>
 Created a server called command_server.py which opens port 10000, this probably didn't need to happen, thought I would use it as an api given the small storage of the pi at the time.  I may update this<br/>
